@@ -1,0 +1,14 @@
+{
+  "name": "pogoprotots-parser",
+  "version": "0.1.0",
+  "description": "Parse POGOProtos into typedefs and JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GodLesZ",
+  "license": "MIT",
+  "dependencies": {
+    "simple-git": "^1.47.0"
+  }
+}
