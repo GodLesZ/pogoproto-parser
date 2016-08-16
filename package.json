@@ -9,6 +9,9 @@
   "author": "GodLesZ",
   "license": "MIT",
   "dependencies": {
-    "simple-git": "^1.47.0"
+    "mkdirp": "^0.5.1",
+    "protobufjs": "^5.0.1",
+    "simple-git": "^1.47.0",
+    "spawn-sync": "^1.0.15"
   }
 }
